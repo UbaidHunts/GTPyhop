@@ -17,7 +17,7 @@ I also implemented the `Manhattan Distance Heuristic` which can be find in each 
 
 ## Run
 
-If you have GTPyHOP installed on you machine, to run the project for DFID copy the `dfid.py` file from `/lookahead` and paste it in GTPyHOP/Examples. After doing simply fun the file using:
+If you have GTPyHOP installed on you machine, to run the project for DFID copy the `dfid.py` file from `/lookahead` and paste it in `GTPyHOP/Examples`. After doing simply fun the file using:
 ```bash
 python3 dfid.py
 ```
