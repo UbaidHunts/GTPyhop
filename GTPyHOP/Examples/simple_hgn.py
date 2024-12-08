@@ -323,3 +323,5 @@ method has achieved all of the values specified in the multigoal.
 ###############################################################################
 # At this point, I used to call main() so the examples would run automatically,
 # but I've removed that to maintain uniformity with the other example domains.
+if __name__ == "__main__":
+   main(do_pauses=False)
