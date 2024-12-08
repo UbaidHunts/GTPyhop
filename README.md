@@ -3,7 +3,7 @@
 This project extends the functionality of the official GTPyHOP repository by implementing several lookahead strategies and integrating the Manhattan Distance heuristic for use in planning tasks.
 
 ## Project Directory Structure
-- **Lookahead Strategies:** Implemented in `/GTPyHOP/Examples/`.
+- **Lookahead Strategies:** Implemented in `/lookahead`.
 
 In this directory, the following lookahead strategies have been implemented:
 - **A-star:** `astar.py`
@@ -17,12 +17,11 @@ I also implemented the `Manhattan Distance Heuristic` which can be find in each 
 
 ## Run
 
-If you have GTPyHOP installed on you machine, to run the project for DFID copy the `dfid.py` file from :
+If you have GTPyHOP installed on you machine, to run the project for DFID copy the `dfid.py` file from `/lookahead` and paste it in GTPyHOP/Examples. After doing simply fun the file using:
 ```bash
-cd GTPyHOP/Examples
 python3 dfid.py
 ```
 
 ## Experiments 
-The results of experiments can be find in `results` directory.
+The results of experiments can be find in `/results` directory.
 
